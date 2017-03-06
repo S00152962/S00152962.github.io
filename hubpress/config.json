@@ -2,9 +2,38 @@
   "meta": {
     "username": "S00152962",
     "repositoryName": "S00152962.github.io",
-    "branch": "master"
+    "branch": "master",
+    "cname": ""
   },
   "theme": {
-    "name": "uno"
+    "name": "saga"
+  },
+  "urls": {
+    "site": "https://S00152962.github.io",
+    "hubpress": "https://s00152962.github.io",
+    "theme": "//S00152962.github.io/themes/uno",
+    "images": "https://S00152962.github.io/images"
+  },
+  "site": {
+    "title": "Finbar Tracey",
+    "description": "",
+    "logo": "",
+    "cover": "",
+    "delay": "",
+    "postsPerPage": "",
+    "googleAnalytics": "",
+    "disqus": ""
+  },
+  "socialnetwork": {
+    "email": "",
+    "github": "",
+    "twitter": "",
+    "facebook": "",
+    "googleplus": "",
+    "instagram": "",
+    "pinterest": "",
+    "flickr": "",
+    "linkedin": "",
+    "stackoverflow": ""
   }
 }
